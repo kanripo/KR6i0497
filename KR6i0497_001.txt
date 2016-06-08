@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:01.618082
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:46
 #+TITLE: 佛說佛醫經
 #+PROPERTY: CBETA_ID T17n0793
 #+PROPERTY: ID KR6i0497
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 793
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0497_T_000-0737a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0497_T_001-0737a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.793¶
-
- 《佛說佛醫經》¶
+No. 793¶
+《佛說佛醫經》¶
 ¶
 吳天竺沙門竺律炎共支越譯¶
 
@@ -72,8 +71,7 @@ No.793¶
 知識故。惡人不計當坐之，是為近惡知識。入¶
 里不知時不如法行者，謂晨暮行，亦有魍魎¶
 諍鬪者，若有長吏追捕而不避，若入他家舍，¶
-妄視不可視、妄聽不可聽、妄犯不可犯、妄¶
-念不可念，是為入不知時不如法行。可避¶
+妄視不可視、妄聽不可聽、妄犯不可犯、妄念不可念，是為入不知時不如法行。可避¶
 不避者，謂弊牛、馬、狾、狗、蚖、蛇、虫，水、火、坑、穽、¶
 犇車、馳馬，拔刀醉人、惡人。亦若干，是為可¶
 避不避。
